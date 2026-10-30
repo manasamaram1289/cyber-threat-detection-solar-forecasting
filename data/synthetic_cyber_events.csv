@@ -1,0 +1,601 @@
+event_id,event_text,label
+EVT-0001,security log: scheduled software update completed successfully,0
+EVT-0002,event recorded: user signed in from registered office device for review,0
+EVT-0003,system alert: malware payload command and control connection detected reported,1
+EVT-0004,event recorded: urgent verify account password reset suspicious login,1
+EVT-0005,event recorded: urgent verify account password reset suspicious login for review,1
+EVT-0006,event recorded: scheduled software update completed successfully reported,0
+EVT-0007,suspicious privilege escalation attempt detected reported,1
+EVT-0008,system alert: phishing email asks user to confirm bank credentials reported,1
+EVT-0009,security log: standard system health check completed reported,0
+EVT-0010,employee accessed approved company dashboard for review,0
+EVT-0011,event recorded: employee accessed approved company dashboard detected,0
+EVT-0012,security log: user signed in from registered office device detected,0
+EVT-0013,urgent verify account password reset suspicious login for review,1
+EVT-0014,security log: scheduled software update completed successfully reported,0
+EVT-0015,security log: malware payload command and control connection detected reported,1
+EVT-0016,security log: scheduled software update completed successfully detected,0
+EVT-0017,employee accessed approved company dashboard for review,0
+EVT-0018,system alert: malware payload command and control connection detected,1
+EVT-0019,suspicious privilege escalation attempt detected,1
+EVT-0020,employee accessed approved company dashboard detected,0
+EVT-0021,system alert: user signed in from registered office device,0
+EVT-0022,event recorded: routine backup completed without errors,0
+EVT-0023,event recorded: unknown executable detected unauthorized access attempt for review,1
+EVT-0024,security log: phishing email asks user to confirm bank credentials for review,1
+EVT-0025,event recorded: unknown executable detected unauthorized access attempt reported,1
+EVT-0026,system alert: multiple failed login attempts from unusual address detected,1
+EVT-0027,system alert: malware payload command and control connection detected,1
+EVT-0028,event recorded: user signed in from registered office device detected,0
+EVT-0029,event recorded: standard system health check completed,0
+EVT-0030,system alert: monthly invoice processed by finance department reported,0
+EVT-0031,scheduled software update completed successfully reported,0
+EVT-0032,system alert: phishing email asks user to confirm bank credentials reported,1
+EVT-0033,event recorded: employee accessed approved company dashboard detected,0
+EVT-0034,user signed in from registered office device reported,0
+EVT-0035,user signed in from registered office device detected,0
+EVT-0036,event recorded: scheduled software update completed successfully reported,0
+EVT-0037,suspicious privilege escalation attempt detected detected,1
+EVT-0038,system alert: employee accessed approved company dashboard,0
+EVT-0039,event recorded: monthly invoice processed by finance department,0
+EVT-0040,event recorded: user signed in from registered office device detected,0
+EVT-0041,security log: employee accessed approved company dashboard,0
+EVT-0042,event recorded: scheduled software update completed successfully for review,0
+EVT-0043,event recorded: standard system health check completed reported,0
+EVT-0044,security log: multiple failed login attempts from unusual address reported,1
+EVT-0045,security log: monthly invoice processed by finance department detected,0
+EVT-0046,event recorded: phishing email asks user to confirm bank credentials reported,1
+EVT-0047,unknown executable detected unauthorized access attempt for review,1
+EVT-0048,system alert: scheduled software update completed successfully reported,0
+EVT-0049,user signed in from registered office device reported,0
+EVT-0050,routine backup completed without errors,0
+EVT-0051,user signed in from registered office device detected,0
+EVT-0052,scheduled software update completed successfully for review,0
+EVT-0053,security log: phishing email asks user to confirm bank credentials detected,1
+EVT-0054,standard system health check completed detected,0
+EVT-0055,security log: scheduled software update completed successfully reported,0
+EVT-0056,system alert: scheduled software update completed successfully,0
+EVT-0057,system alert: employee accessed approved company dashboard,0
+EVT-0058,system alert: monthly invoice processed by finance department reported,0
+EVT-0059,security log: scheduled software update completed successfully,0
+EVT-0060,scheduled software update completed successfully reported,0
+EVT-0061,unknown executable detected unauthorized access attempt detected,1
+EVT-0062,event recorded: phishing email asks user to confirm bank credentials reported,1
+EVT-0063,event recorded: phishing email asks user to confirm bank credentials reported,1
+EVT-0064,security log: standard system health check completed for review,0
+EVT-0065,system alert: monthly invoice processed by finance department reported,0
+EVT-0066,security log: monthly invoice processed by finance department,0
+EVT-0067,system alert: unknown executable detected unauthorized access attempt detected,1
+EVT-0068,event recorded: urgent verify account password reset suspicious login,1
+EVT-0069,event recorded: unknown executable detected unauthorized access attempt for review,1
+EVT-0070,event recorded: employee accessed approved company dashboard reported,0
+EVT-0071,monthly invoice processed by finance department reported,0
+EVT-0072,event recorded: user signed in from registered office device reported,0
+EVT-0073,user signed in from registered office device for review,0
+EVT-0074,event recorded: suspicious privilege escalation attempt detected detected,1
+EVT-0075,scheduled software update completed successfully for review,0
+EVT-0076,event recorded: urgent verify account password reset suspicious login reported,1
+EVT-0077,event recorded: routine backup completed without errors for review,0
+EVT-0078,security log: employee accessed approved company dashboard detected,0
+EVT-0079,user signed in from registered office device for review,0
+EVT-0080,monthly invoice processed by finance department for review,0
+EVT-0081,security log: user signed in from registered office device,0
+EVT-0082,system alert: multiple failed login attempts from unusual address detected,1
+EVT-0083,security log: standard system health check completed reported,0
+EVT-0084,event recorded: multiple failed login attempts from unusual address reported,1
+EVT-0085,standard system health check completed detected,0
+EVT-0086,system alert: standard system health check completed,0
+EVT-0087,system alert: standard system health check completed,0
+EVT-0088,security log: user signed in from registered office device,0
+EVT-0089,suspicious privilege escalation attempt detected,1
+EVT-0090,routine backup completed without errors reported,0
+EVT-0091,event recorded: employee accessed approved company dashboard,0
+EVT-0092,employee accessed approved company dashboard detected,0
+EVT-0093,event recorded: standard system health check completed,0
+EVT-0094,system alert: scheduled software update completed successfully reported,0
+EVT-0095,event recorded: user signed in from registered office device,0
+EVT-0096,event recorded: standard system health check completed,0
+EVT-0097,system alert: multiple failed login attempts from unusual address,1
+EVT-0098,event recorded: monthly invoice processed by finance department,0
+EVT-0099,security log: suspicious privilege escalation attempt detected reported,1
+EVT-0100,employee accessed approved company dashboard detected,0
+EVT-0101,unknown executable detected unauthorized access attempt detected,1
+EVT-0102,phishing email asks user to confirm bank credentials for review,1
+EVT-0103,system alert: urgent verify account password reset suspicious login detected,1
+EVT-0104,urgent verify account password reset suspicious login detected,1
+EVT-0105,security log: employee accessed approved company dashboard,0
+EVT-0106,event recorded: scheduled software update completed successfully reported,0
+EVT-0107,system alert: standard system health check completed reported,0
+EVT-0108,event recorded: employee accessed approved company dashboard detected,0
+EVT-0109,system alert: scheduled software update completed successfully reported,0
+EVT-0110,standard system health check completed detected,0
+EVT-0111,standard system health check completed reported,0
+EVT-0112,urgent verify account password reset suspicious login for review,1
+EVT-0113,security log: suspicious privilege escalation attempt detected reported,1
+EVT-0114,security log: urgent verify account password reset suspicious login reported,1
+EVT-0115,event recorded: monthly invoice processed by finance department,0
+EVT-0116,event recorded: standard system health check completed for review,0
+EVT-0117,system alert: scheduled software update completed successfully,0
+EVT-0118,security log: urgent verify account password reset suspicious login detected,1
+EVT-0119,security log: standard system health check completed for review,0
+EVT-0120,system alert: routine backup completed without errors for review,0
+EVT-0121,security log: suspicious privilege escalation attempt detected for review,1
+EVT-0122,security log: standard system health check completed for review,0
+EVT-0123,system alert: multiple failed login attempts from unusual address,1
+EVT-0124,monthly invoice processed by finance department for review,0
+EVT-0125,suspicious privilege escalation attempt detected for review,1
+EVT-0126,employee accessed approved company dashboard reported,0
+EVT-0127,system alert: malware payload command and control connection detected reported,1
+EVT-0128,system alert: standard system health check completed,0
+EVT-0129,security log: employee accessed approved company dashboard reported,0
+EVT-0130,system alert: monthly invoice processed by finance department detected,0
+EVT-0131,event recorded: routine backup completed without errors reported,0
+EVT-0132,event recorded: standard system health check completed,0
+EVT-0133,security log: urgent verify account password reset suspicious login,1
+EVT-0134,urgent verify account password reset suspicious login detected,1
+EVT-0135,security log: routine backup completed without errors detected,0
+EVT-0136,security log: multiple failed login attempts from unusual address reported,1
+EVT-0137,event recorded: user signed in from registered office device detected,0
+EVT-0138,security log: standard system health check completed,0
+EVT-0139,user signed in from registered office device for review,0
+EVT-0140,malware payload command and control connection detected detected,1
+EVT-0141,security log: unknown executable detected unauthorized access attempt for review,1
+EVT-0142,system alert: standard system health check completed detected,0
+EVT-0143,system alert: multiple failed login attempts from unusual address,1
+EVT-0144,routine backup completed without errors reported,0
+EVT-0145,event recorded: user signed in from registered office device detected,0
+EVT-0146,event recorded: scheduled software update completed successfully detected,0
+EVT-0147,event recorded: monthly invoice processed by finance department,0
+EVT-0148,security log: multiple failed login attempts from unusual address detected,1
+EVT-0149,system alert: employee accessed approved company dashboard detected,0
+EVT-0150,security log: malware payload command and control connection detected detected,1
+EVT-0151,system alert: unknown executable detected unauthorized access attempt for review,1
+EVT-0152,urgent verify account password reset suspicious login detected,1
+EVT-0153,routine backup completed without errors detected,0
+EVT-0154,suspicious privilege escalation attempt detected for review,1
+EVT-0155,event recorded: unknown executable detected unauthorized access attempt,1
+EVT-0156,system alert: urgent verify account password reset suspicious login,1
+EVT-0157,unknown executable detected unauthorized access attempt,1
+EVT-0158,user signed in from registered office device for review,0
+EVT-0159,event recorded: urgent verify account password reset suspicious login,1
+EVT-0160,system alert: routine backup completed without errors,0
+EVT-0161,event recorded: user signed in from registered office device,0
+EVT-0162,security log: routine backup completed without errors,0
+EVT-0163,system alert: routine backup completed without errors for review,0
+EVT-0164,security log: suspicious privilege escalation attempt detected reported,1
+EVT-0165,security log: employee accessed approved company dashboard reported,0
+EVT-0166,scheduled software update completed successfully,0
+EVT-0167,event recorded: standard system health check completed for review,0
+EVT-0168,system alert: user signed in from registered office device,0
+EVT-0169,system alert: suspicious privilege escalation attempt detected for review,1
+EVT-0170,phishing email asks user to confirm bank credentials for review,1
+EVT-0171,event recorded: scheduled software update completed successfully reported,0
+EVT-0172,urgent verify account password reset suspicious login detected,1
+EVT-0173,system alert: urgent verify account password reset suspicious login for review,1
+EVT-0174,security log: employee accessed approved company dashboard detected,0
+EVT-0175,system alert: multiple failed login attempts from unusual address detected,1
+EVT-0176,event recorded: standard system health check completed detected,0
+EVT-0177,phishing email asks user to confirm bank credentials detected,1
+EVT-0178,system alert: employee accessed approved company dashboard reported,0
+EVT-0179,employee accessed approved company dashboard for review,0
+EVT-0180,event recorded: urgent verify account password reset suspicious login for review,1
+EVT-0181,security log: multiple failed login attempts from unusual address for review,1
+EVT-0182,system alert: unknown executable detected unauthorized access attempt reported,1
+EVT-0183,security log: scheduled software update completed successfully detected,0
+EVT-0184,event recorded: phishing email asks user to confirm bank credentials reported,1
+EVT-0185,phishing email asks user to confirm bank credentials detected,1
+EVT-0186,urgent verify account password reset suspicious login reported,1
+EVT-0187,malware payload command and control connection detected detected,1
+EVT-0188,security log: routine backup completed without errors detected,0
+EVT-0189,routine backup completed without errors detected,0
+EVT-0190,system alert: unknown executable detected unauthorized access attempt for review,1
+EVT-0191,security log: routine backup completed without errors,0
+EVT-0192,system alert: user signed in from registered office device detected,0
+EVT-0193,event recorded: user signed in from registered office device reported,0
+EVT-0194,system alert: phishing email asks user to confirm bank credentials for review,1
+EVT-0195,event recorded: employee accessed approved company dashboard reported,0
+EVT-0196,event recorded: phishing email asks user to confirm bank credentials,1
+EVT-0197,scheduled software update completed successfully,0
+EVT-0198,system alert: malware payload command and control connection detected,1
+EVT-0199,event recorded: malware payload command and control connection detected reported,1
+EVT-0200,security log: multiple failed login attempts from unusual address for review,1
+EVT-0201,system alert: employee accessed approved company dashboard for review,0
+EVT-0202,security log: employee accessed approved company dashboard for review,0
+EVT-0203,event recorded: suspicious privilege escalation attempt detected detected,1
+EVT-0204,suspicious privilege escalation attempt detected for review,1
+EVT-0205,standard system health check completed detected,0
+EVT-0206,event recorded: scheduled software update completed successfully reported,0
+EVT-0207,suspicious privilege escalation attempt detected detected,1
+EVT-0208,security log: scheduled software update completed successfully reported,0
+EVT-0209,system alert: routine backup completed without errors for review,0
+EVT-0210,event recorded: monthly invoice processed by finance department detected,0
+EVT-0211,standard system health check completed detected,0
+EVT-0212,event recorded: scheduled software update completed successfully,0
+EVT-0213,system alert: multiple failed login attempts from unusual address,1
+EVT-0214,routine backup completed without errors,0
+EVT-0215,user signed in from registered office device,0
+EVT-0216,system alert: employee accessed approved company dashboard reported,0
+EVT-0217,security log: employee accessed approved company dashboard reported,0
+EVT-0218,security log: employee accessed approved company dashboard,0
+EVT-0219,suspicious privilege escalation attempt detected for review,1
+EVT-0220,system alert: scheduled software update completed successfully detected,0
+EVT-0221,event recorded: user signed in from registered office device detected,0
+EVT-0222,event recorded: standard system health check completed reported,0
+EVT-0223,employee accessed approved company dashboard reported,0
+EVT-0224,scheduled software update completed successfully reported,0
+EVT-0225,event recorded: unknown executable detected unauthorized access attempt detected,1
+EVT-0226,system alert: urgent verify account password reset suspicious login for review,1
+EVT-0227,security log: malware payload command and control connection detected reported,1
+EVT-0228,scheduled software update completed successfully,0
+EVT-0229,security log: standard system health check completed for review,0
+EVT-0230,security log: routine backup completed without errors detected,0
+EVT-0231,user signed in from registered office device detected,0
+EVT-0232,phishing email asks user to confirm bank credentials,1
+EVT-0233,user signed in from registered office device,0
+EVT-0234,security log: user signed in from registered office device detected,0
+EVT-0235,system alert: monthly invoice processed by finance department reported,0
+EVT-0236,multiple failed login attempts from unusual address reported,1
+EVT-0237,event recorded: routine backup completed without errors for review,0
+EVT-0238,urgent verify account password reset suspicious login for review,1
+EVT-0239,system alert: urgent verify account password reset suspicious login reported,1
+EVT-0240,unknown executable detected unauthorized access attempt detected,1
+EVT-0241,system alert: monthly invoice processed by finance department reported,0
+EVT-0242,event recorded: urgent verify account password reset suspicious login for review,1
+EVT-0243,multiple failed login attempts from unusual address detected,1
+EVT-0244,security log: employee accessed approved company dashboard reported,0
+EVT-0245,security log: monthly invoice processed by finance department reported,0
+EVT-0246,system alert: phishing email asks user to confirm bank credentials for review,1
+EVT-0247,system alert: malware payload command and control connection detected detected,1
+EVT-0248,malware payload command and control connection detected detected,1
+EVT-0249,security log: malware payload command and control connection detected detected,1
+EVT-0250,security log: routine backup completed without errors,0
+EVT-0251,event recorded: employee accessed approved company dashboard reported,0
+EVT-0252,system alert: urgent verify account password reset suspicious login reported,1
+EVT-0253,system alert: employee accessed approved company dashboard for review,0
+EVT-0254,event recorded: unknown executable detected unauthorized access attempt,1
+EVT-0255,system alert: employee accessed approved company dashboard,0
+EVT-0256,event recorded: routine backup completed without errors for review,0
+EVT-0257,event recorded: user signed in from registered office device for review,0
+EVT-0258,event recorded: routine backup completed without errors reported,0
+EVT-0259,event recorded: urgent verify account password reset suspicious login,1
+EVT-0260,multiple failed login attempts from unusual address reported,1
+EVT-0261,unknown executable detected unauthorized access attempt reported,1
+EVT-0262,event recorded: user signed in from registered office device for review,0
+EVT-0263,security log: user signed in from registered office device reported,0
+EVT-0264,system alert: monthly invoice processed by finance department,0
+EVT-0265,security log: unknown executable detected unauthorized access attempt for review,1
+EVT-0266,security log: malware payload command and control connection detected for review,1
+EVT-0267,system alert: user signed in from registered office device reported,0
+EVT-0268,standard system health check completed detected,0
+EVT-0269,security log: unknown executable detected unauthorized access attempt for review,1
+EVT-0270,event recorded: urgent verify account password reset suspicious login for review,1
+EVT-0271,system alert: employee accessed approved company dashboard,0
+EVT-0272,urgent verify account password reset suspicious login reported,1
+EVT-0273,user signed in from registered office device detected,0
+EVT-0274,security log: scheduled software update completed successfully reported,0
+EVT-0275,event recorded: standard system health check completed for review,0
+EVT-0276,scheduled software update completed successfully detected,0
+EVT-0277,system alert: user signed in from registered office device detected,0
+EVT-0278,security log: urgent verify account password reset suspicious login reported,1
+EVT-0279,system alert: phishing email asks user to confirm bank credentials reported,1
+EVT-0280,event recorded: malware payload command and control connection detected,1
+EVT-0281,security log: multiple failed login attempts from unusual address,1
+EVT-0282,event recorded: user signed in from registered office device reported,0
+EVT-0283,security log: routine backup completed without errors reported,0
+EVT-0284,system alert: phishing email asks user to confirm bank credentials detected,1
+EVT-0285,system alert: urgent verify account password reset suspicious login reported,1
+EVT-0286,system alert: scheduled software update completed successfully detected,0
+EVT-0287,system alert: multiple failed login attempts from unusual address for review,1
+EVT-0288,system alert: multiple failed login attempts from unusual address reported,1
+EVT-0289,employee accessed approved company dashboard reported,0
+EVT-0290,security log: suspicious privilege escalation attempt detected for review,1
+EVT-0291,system alert: scheduled software update completed successfully for review,0
+EVT-0292,system alert: monthly invoice processed by finance department detected,0
+EVT-0293,system alert: employee accessed approved company dashboard for review,0
+EVT-0294,standard system health check completed,0
+EVT-0295,system alert: standard system health check completed for review,0
+EVT-0296,event recorded: monthly invoice processed by finance department detected,0
+EVT-0297,security log: scheduled software update completed successfully reported,0
+EVT-0298,scheduled software update completed successfully,0
+EVT-0299,system alert: standard system health check completed detected,0
+EVT-0300,event recorded: routine backup completed without errors reported,0
+EVT-0301,security log: scheduled software update completed successfully detected,0
+EVT-0302,phishing email asks user to confirm bank credentials,1
+EVT-0303,system alert: standard system health check completed reported,0
+EVT-0304,event recorded: employee accessed approved company dashboard detected,0
+EVT-0305,system alert: scheduled software update completed successfully detected,0
+EVT-0306,scheduled software update completed successfully,0
+EVT-0307,system alert: urgent verify account password reset suspicious login,1
+EVT-0308,standard system health check completed reported,0
+EVT-0309,event recorded: phishing email asks user to confirm bank credentials detected,1
+EVT-0310,security log: employee accessed approved company dashboard reported,0
+EVT-0311,system alert: phishing email asks user to confirm bank credentials reported,1
+EVT-0312,event recorded: urgent verify account password reset suspicious login for review,1
+EVT-0313,system alert: malware payload command and control connection detected for review,1
+EVT-0314,event recorded: employee accessed approved company dashboard reported,0
+EVT-0315,event recorded: user signed in from registered office device reported,0
+EVT-0316,security log: suspicious privilege escalation attempt detected,1
+EVT-0317,security log: monthly invoice processed by finance department for review,0
+EVT-0318,system alert: scheduled software update completed successfully reported,0
+EVT-0319,standard system health check completed,0
+EVT-0320,monthly invoice processed by finance department,0
+EVT-0321,security log: monthly invoice processed by finance department detected,0
+EVT-0322,malware payload command and control connection detected reported,1
+EVT-0323,system alert: unknown executable detected unauthorized access attempt,1
+EVT-0324,system alert: urgent verify account password reset suspicious login,1
+EVT-0325,security log: scheduled software update completed successfully for review,0
+EVT-0326,event recorded: scheduled software update completed successfully reported,0
+EVT-0327,system alert: user signed in from registered office device for review,0
+EVT-0328,urgent verify account password reset suspicious login,1
+EVT-0329,system alert: phishing email asks user to confirm bank credentials for review,1
+EVT-0330,security log: phishing email asks user to confirm bank credentials for review,1
+EVT-0331,event recorded: standard system health check completed for review,0
+EVT-0332,employee accessed approved company dashboard reported,0
+EVT-0333,event recorded: phishing email asks user to confirm bank credentials for review,1
+EVT-0334,employee accessed approved company dashboard detected,0
+EVT-0335,standard system health check completed detected,0
+EVT-0336,system alert: phishing email asks user to confirm bank credentials reported,1
+EVT-0337,security log: standard system health check completed for review,0
+EVT-0338,system alert: standard system health check completed reported,0
+EVT-0339,routine backup completed without errors reported,0
+EVT-0340,system alert: multiple failed login attempts from unusual address detected,1
+EVT-0341,event recorded: suspicious privilege escalation attempt detected,1
+EVT-0342,event recorded: monthly invoice processed by finance department reported,0
+EVT-0343,event recorded: user signed in from registered office device,0
+EVT-0344,security log: monthly invoice processed by finance department for review,0
+EVT-0345,event recorded: routine backup completed without errors for review,0
+EVT-0346,event recorded: monthly invoice processed by finance department for review,0
+EVT-0347,security log: monthly invoice processed by finance department,0
+EVT-0348,system alert: unknown executable detected unauthorized access attempt,1
+EVT-0349,system alert: urgent verify account password reset suspicious login for review,1
+EVT-0350,event recorded: scheduled software update completed successfully detected,0
+EVT-0351,security log: standard system health check completed reported,0
+EVT-0352,system alert: user signed in from registered office device detected,0
+EVT-0353,event recorded: standard system health check completed,0
+EVT-0354,event recorded: scheduled software update completed successfully,0
+EVT-0355,system alert: phishing email asks user to confirm bank credentials reported,1
+EVT-0356,security log: scheduled software update completed successfully for review,0
+EVT-0357,event recorded: employee accessed approved company dashboard detected,0
+EVT-0358,event recorded: phishing email asks user to confirm bank credentials for review,1
+EVT-0359,urgent verify account password reset suspicious login,1
+EVT-0360,employee accessed approved company dashboard reported,0
+EVT-0361,security log: urgent verify account password reset suspicious login detected,1
+EVT-0362,security log: standard system health check completed,0
+EVT-0363,event recorded: employee accessed approved company dashboard for review,0
+EVT-0364,security log: urgent verify account password reset suspicious login reported,1
+EVT-0365,monthly invoice processed by finance department for review,0
+EVT-0366,system alert: scheduled software update completed successfully reported,0
+EVT-0367,system alert: urgent verify account password reset suspicious login for review,1
+EVT-0368,routine backup completed without errors reported,0
+EVT-0369,system alert: standard system health check completed,0
+EVT-0370,employee accessed approved company dashboard reported,0
+EVT-0371,security log: suspicious privilege escalation attempt detected,1
+EVT-0372,system alert: unknown executable detected unauthorized access attempt reported,1
+EVT-0373,event recorded: routine backup completed without errors reported,0
+EVT-0374,unknown executable detected unauthorized access attempt for review,1
+EVT-0375,system alert: routine backup completed without errors reported,0
+EVT-0376,event recorded: employee accessed approved company dashboard detected,0
+EVT-0377,system alert: scheduled software update completed successfully reported,0
+EVT-0378,security log: suspicious privilege escalation attempt detected for review,1
+EVT-0379,phishing email asks user to confirm bank credentials,1
+EVT-0380,security log: malware payload command and control connection detected for review,1
+EVT-0381,employee accessed approved company dashboard detected,0
+EVT-0382,security log: user signed in from registered office device reported,0
+EVT-0383,system alert: monthly invoice processed by finance department for review,0
+EVT-0384,multiple failed login attempts from unusual address,1
+EVT-0385,urgent verify account password reset suspicious login for review,1
+EVT-0386,employee accessed approved company dashboard for review,0
+EVT-0387,malware payload command and control connection detected,1
+EVT-0388,system alert: monthly invoice processed by finance department,0
+EVT-0389,employee accessed approved company dashboard detected,0
+EVT-0390,event recorded: user signed in from registered office device reported,0
+EVT-0391,security log: unknown executable detected unauthorized access attempt detected,1
+EVT-0392,system alert: user signed in from registered office device for review,0
+EVT-0393,security log: phishing email asks user to confirm bank credentials reported,1
+EVT-0394,event recorded: monthly invoice processed by finance department,0
+EVT-0395,system alert: monthly invoice processed by finance department reported,0
+EVT-0396,suspicious privilege escalation attempt detected reported,1
+EVT-0397,user signed in from registered office device,0
+EVT-0398,security log: malware payload command and control connection detected,1
+EVT-0399,security log: scheduled software update completed successfully for review,0
+EVT-0400,event recorded: employee accessed approved company dashboard for review,0
+EVT-0401,standard system health check completed detected,0
+EVT-0402,security log: employee accessed approved company dashboard,0
+EVT-0403,user signed in from registered office device reported,0
+EVT-0404,security log: phishing email asks user to confirm bank credentials reported,1
+EVT-0405,system alert: employee accessed approved company dashboard,0
+EVT-0406,event recorded: scheduled software update completed successfully reported,0
+EVT-0407,security log: multiple failed login attempts from unusual address detected,1
+EVT-0408,employee accessed approved company dashboard detected,0
+EVT-0409,multiple failed login attempts from unusual address reported,1
+EVT-0410,security log: malware payload command and control connection detected detected,1
+EVT-0411,system alert: unknown executable detected unauthorized access attempt detected,1
+EVT-0412,security log: employee accessed approved company dashboard,0
+EVT-0413,security log: malware payload command and control connection detected reported,1
+EVT-0414,event recorded: scheduled software update completed successfully reported,0
+EVT-0415,security log: multiple failed login attempts from unusual address detected,1
+EVT-0416,event recorded: monthly invoice processed by finance department reported,0
+EVT-0417,system alert: routine backup completed without errors,0
+EVT-0418,monthly invoice processed by finance department detected,0
+EVT-0419,event recorded: multiple failed login attempts from unusual address detected,1
+EVT-0420,routine backup completed without errors for review,0
+EVT-0421,standard system health check completed detected,0
+EVT-0422,security log: employee accessed approved company dashboard reported,0
+EVT-0423,system alert: phishing email asks user to confirm bank credentials detected,1
+EVT-0424,event recorded: malware payload command and control connection detected detected,1
+EVT-0425,event recorded: multiple failed login attempts from unusual address for review,1
+EVT-0426,phishing email asks user to confirm bank credentials detected,1
+EVT-0427,system alert: monthly invoice processed by finance department for review,0
+EVT-0428,system alert: monthly invoice processed by finance department detected,0
+EVT-0429,event recorded: malware payload command and control connection detected detected,1
+EVT-0430,system alert: employee accessed approved company dashboard reported,0
+EVT-0431,system alert: scheduled software update completed successfully,0
+EVT-0432,security log: urgent verify account password reset suspicious login,1
+EVT-0433,user signed in from registered office device for review,0
+EVT-0434,event recorded: routine backup completed without errors detected,0
+EVT-0435,monthly invoice processed by finance department reported,0
+EVT-0436,event recorded: monthly invoice processed by finance department,0
+EVT-0437,event recorded: monthly invoice processed by finance department,0
+EVT-0438,event recorded: urgent verify account password reset suspicious login for review,1
+EVT-0439,monthly invoice processed by finance department reported,0
+EVT-0440,security log: monthly invoice processed by finance department detected,0
+EVT-0441,security log: suspicious privilege escalation attempt detected reported,1
+EVT-0442,event recorded: employee accessed approved company dashboard,0
+EVT-0443,security log: malware payload command and control connection detected detected,1
+EVT-0444,system alert: phishing email asks user to confirm bank credentials,1
+EVT-0445,event recorded: employee accessed approved company dashboard detected,0
+EVT-0446,security log: scheduled software update completed successfully for review,0
+EVT-0447,event recorded: monthly invoice processed by finance department,0
+EVT-0448,system alert: urgent verify account password reset suspicious login detected,1
+EVT-0449,routine backup completed without errors reported,0
+EVT-0450,system alert: scheduled software update completed successfully reported,0
+EVT-0451,event recorded: scheduled software update completed successfully detected,0
+EVT-0452,event recorded: scheduled software update completed successfully,0
+EVT-0453,security log: user signed in from registered office device reported,0
+EVT-0454,employee accessed approved company dashboard reported,0
+EVT-0455,standard system health check completed detected,0
+EVT-0456,event recorded: scheduled software update completed successfully reported,0
+EVT-0457,scheduled software update completed successfully for review,0
+EVT-0458,security log: scheduled software update completed successfully reported,0
+EVT-0459,security log: user signed in from registered office device reported,0
+EVT-0460,event recorded: employee accessed approved company dashboard,0
+EVT-0461,system alert: phishing email asks user to confirm bank credentials detected,1
+EVT-0462,system alert: multiple failed login attempts from unusual address reported,1
+EVT-0463,security log: routine backup completed without errors for review,0
+EVT-0464,employee accessed approved company dashboard for review,0
+EVT-0465,system alert: monthly invoice processed by finance department reported,0
+EVT-0466,security log: multiple failed login attempts from unusual address reported,1
+EVT-0467,event recorded: suspicious privilege escalation attempt detected for review,1
+EVT-0468,system alert: scheduled software update completed successfully detected,0
+EVT-0469,employee accessed approved company dashboard,0
+EVT-0470,system alert: standard system health check completed detected,0
+EVT-0471,security log: suspicious privilege escalation attempt detected reported,1
+EVT-0472,security log: routine backup completed without errors reported,0
+EVT-0473,event recorded: urgent verify account password reset suspicious login,1
+EVT-0474,system alert: monthly invoice processed by finance department reported,0
+EVT-0475,system alert: scheduled software update completed successfully,0
+EVT-0476,multiple failed login attempts from unusual address reported,1
+EVT-0477,employee accessed approved company dashboard detected,0
+EVT-0478,system alert: routine backup completed without errors detected,0
+EVT-0479,routine backup completed without errors for review,0
+EVT-0480,event recorded: multiple failed login attempts from unusual address,1
+EVT-0481,security log: unknown executable detected unauthorized access attempt,1
+EVT-0482,security log: unknown executable detected unauthorized access attempt reported,1
+EVT-0483,security log: phishing email asks user to confirm bank credentials reported,1
+EVT-0484,security log: employee accessed approved company dashboard detected,0
+EVT-0485,system alert: multiple failed login attempts from unusual address reported,1
+EVT-0486,unknown executable detected unauthorized access attempt detected,1
+EVT-0487,event recorded: suspicious privilege escalation attempt detected detected,1
+EVT-0488,event recorded: monthly invoice processed by finance department reported,0
+EVT-0489,security log: phishing email asks user to confirm bank credentials reported,1
+EVT-0490,standard system health check completed detected,0
+EVT-0491,multiple failed login attempts from unusual address for review,1
+EVT-0492,malware payload command and control connection detected,1
+EVT-0493,event recorded: malware payload command and control connection detected,1
+EVT-0494,event recorded: routine backup completed without errors,0
+EVT-0495,user signed in from registered office device detected,0
+EVT-0496,event recorded: urgent verify account password reset suspicious login reported,1
+EVT-0497,security log: standard system health check completed reported,0
+EVT-0498,event recorded: malware payload command and control connection detected,1
+EVT-0499,system alert: suspicious privilege escalation attempt detected reported,1
+EVT-0500,security log: monthly invoice processed by finance department detected,0
+EVT-0501,scheduled software update completed successfully for review,0
+EVT-0502,event recorded: urgent verify account password reset suspicious login,1
+EVT-0503,event recorded: standard system health check completed for review,0
+EVT-0504,system alert: multiple failed login attempts from unusual address detected,1
+EVT-0505,event recorded: user signed in from registered office device reported,0
+EVT-0506,security log: monthly invoice processed by finance department detected,0
+EVT-0507,event recorded: scheduled software update completed successfully,0
+EVT-0508,malware payload command and control connection detected detected,1
+EVT-0509,system alert: scheduled software update completed successfully reported,0
+EVT-0510,scheduled software update completed successfully reported,0
+EVT-0511,security log: monthly invoice processed by finance department reported,0
+EVT-0512,event recorded: routine backup completed without errors reported,0
+EVT-0513,event recorded: standard system health check completed reported,0
+EVT-0514,standard system health check completed for review,0
+EVT-0515,event recorded: employee accessed approved company dashboard detected,0
+EVT-0516,event recorded: scheduled software update completed successfully for review,0
+EVT-0517,event recorded: monthly invoice processed by finance department reported,0
+EVT-0518,system alert: routine backup completed without errors detected,0
+EVT-0519,scheduled software update completed successfully,0
+EVT-0520,security log: unknown executable detected unauthorized access attempt for review,1
+EVT-0521,system alert: urgent verify account password reset suspicious login detected,1
+EVT-0522,event recorded: employee accessed approved company dashboard reported,0
+EVT-0523,monthly invoice processed by finance department detected,0
+EVT-0524,security log: employee accessed approved company dashboard detected,0
+EVT-0525,urgent verify account password reset suspicious login for review,1
+EVT-0526,security log: phishing email asks user to confirm bank credentials for review,1
+EVT-0527,standard system health check completed detected,0
+EVT-0528,system alert: scheduled software update completed successfully for review,0
+EVT-0529,event recorded: employee accessed approved company dashboard,0
+EVT-0530,event recorded: standard system health check completed detected,0
+EVT-0531,system alert: scheduled software update completed successfully,0
+EVT-0532,security log: standard system health check completed,0
+EVT-0533,system alert: routine backup completed without errors reported,0
+EVT-0534,suspicious privilege escalation attempt detected,1
+EVT-0535,monthly invoice processed by finance department,0
+EVT-0536,standard system health check completed,0
+EVT-0537,monthly invoice processed by finance department,0
+EVT-0538,event recorded: malware payload command and control connection detected detected,1
+EVT-0539,security log: user signed in from registered office device detected,0
+EVT-0540,unknown executable detected unauthorized access attempt,1
+EVT-0541,system alert: routine backup completed without errors detected,0
+EVT-0542,event recorded: malware payload command and control connection detected for review,1
+EVT-0543,event recorded: unknown executable detected unauthorized access attempt reported,1
+EVT-0544,phishing email asks user to confirm bank credentials detected,1
+EVT-0545,standard system health check completed detected,0
+EVT-0546,event recorded: scheduled software update completed successfully,0
+EVT-0547,system alert: user signed in from registered office device for review,0
+EVT-0548,event recorded: user signed in from registered office device,0
+EVT-0549,security log: monthly invoice processed by finance department reported,0
+EVT-0550,system alert: user signed in from registered office device,0
+EVT-0551,user signed in from registered office device for review,0
+EVT-0552,suspicious privilege escalation attempt detected reported,1
+EVT-0553,system alert: employee accessed approved company dashboard for review,0
+EVT-0554,system alert: user signed in from registered office device detected,0
+EVT-0555,security log: user signed in from registered office device,0
+EVT-0556,malware payload command and control connection detected,1
+EVT-0557,suspicious privilege escalation attempt detected reported,1
+EVT-0558,event recorded: malware payload command and control connection detected for review,1
+EVT-0559,urgent verify account password reset suspicious login,1
+EVT-0560,event recorded: suspicious privilege escalation attempt detected,1
+EVT-0561,multiple failed login attempts from unusual address reported,1
+EVT-0562,system alert: unknown executable detected unauthorized access attempt reported,1
+EVT-0563,unknown executable detected unauthorized access attempt,1
+EVT-0564,system alert: standard system health check completed,0
+EVT-0565,system alert: unknown executable detected unauthorized access attempt detected,1
+EVT-0566,user signed in from registered office device,0
+EVT-0567,security log: user signed in from registered office device,0
+EVT-0568,system alert: employee accessed approved company dashboard,0
+EVT-0569,monthly invoice processed by finance department,0
+EVT-0570,system alert: scheduled software update completed successfully detected,0
+EVT-0571,phishing email asks user to confirm bank credentials reported,1
+EVT-0572,system alert: monthly invoice processed by finance department for review,0
+EVT-0573,monthly invoice processed by finance department reported,0
+EVT-0574,event recorded: monthly invoice processed by finance department,0
+EVT-0575,security log: scheduled software update completed successfully for review,0
+EVT-0576,event recorded: standard system health check completed detected,0
+EVT-0577,malware payload command and control connection detected,1
+EVT-0578,system alert: routine backup completed without errors reported,0
+EVT-0579,system alert: urgent verify account password reset suspicious login,1
+EVT-0580,employee accessed approved company dashboard for review,0
+EVT-0581,system alert: standard system health check completed detected,0
+EVT-0582,unknown executable detected unauthorized access attempt for review,1
+EVT-0583,security log: urgent verify account password reset suspicious login for review,1
+EVT-0584,system alert: standard system health check completed reported,0
+EVT-0585,event recorded: phishing email asks user to confirm bank credentials reported,1
+EVT-0586,event recorded: unknown executable detected unauthorized access attempt detected,1
+EVT-0587,system alert: monthly invoice processed by finance department detected,0
+EVT-0588,event recorded: monthly invoice processed by finance department for review,0
+EVT-0589,standard system health check completed for review,0
+EVT-0590,monthly invoice processed by finance department reported,0
+EVT-0591,system alert: scheduled software update completed successfully reported,0
+EVT-0592,system alert: multiple failed login attempts from unusual address reported,1
+EVT-0593,unknown executable detected unauthorized access attempt,1
+EVT-0594,security log: user signed in from registered office device,0
+EVT-0595,security log: urgent verify account password reset suspicious login,1
+EVT-0596,system alert: unknown executable detected unauthorized access attempt for review,1
+EVT-0597,security log: monthly invoice processed by finance department detected,0
+EVT-0598,malware payload command and control connection detected detected,1
+EVT-0599,event recorded: unknown executable detected unauthorized access attempt reported,1
+EVT-0600,security log: user signed in from registered office device,0
