@@ -1,6 +1,6 @@
 # Cyber Threat Detection & Solar Energy Forecasting
 
-A beginner-friendly Python machine-learning portfolio project containing two independent experiments:
+A beginner-friendly Python machine learning project featuring two independent experiments.
 
 1. **Cyber threat text classification** — TF-IDF features and Logistic Regression classify short synthetic security-event descriptions as benign or potentially malicious.
 2. **Solar energy index estimation** — a Random Forest Regressor estimates a synthetic energy index from month, irradiance, temperature and cloud-cover inputs.
